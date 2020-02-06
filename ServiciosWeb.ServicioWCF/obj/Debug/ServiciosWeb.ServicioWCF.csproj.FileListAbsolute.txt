@@ -1,0 +1,15 @@
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.ServicioWCF.dll.config
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.ServicioWCF.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.ServicioWCF.pdb
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.Datos.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.Datos.pdb
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\ServiciosWeb.Datos.dll.config
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.xml
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.csproj.CopyComplete
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ServicioWCF\obj\Debug\ServiciosWeb.ServicioWCF.pdb
