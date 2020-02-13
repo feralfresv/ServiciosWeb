@@ -1,0 +1,25 @@
+﻿@model List<ServiciosWeb.Dominio.Escuela>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr class="table-success">
+            <td>Id</td>
+            <td>Name</td>
+            <td>Year</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var escuela in Model)
+        {
+            <tr>
+                <td>@escuela.Id</td>
+                <td>@escuela.Name</td>
+                <td>@escuela.Year</td>
+            </tr>
+        }
+    </tbody>
+</table>

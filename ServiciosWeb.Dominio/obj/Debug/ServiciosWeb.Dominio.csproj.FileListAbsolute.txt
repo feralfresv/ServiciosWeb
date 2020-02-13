@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Dominio\bin\Debug\ServiciosWeb.Dominio.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Dominio\bin\Debug\ServiciosWeb.Dominio.pdb
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Dominio\obj\Debug\ServiciosWeb.Dominio.pdb

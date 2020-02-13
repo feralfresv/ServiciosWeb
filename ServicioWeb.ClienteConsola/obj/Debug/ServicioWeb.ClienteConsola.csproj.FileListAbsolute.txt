@@ -5,3 +5,6 @@ C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.Client
 C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.ClienteConsola\obj\Debug\ServicioWeb.ClienteConsola.csproj.CoreCompileInputs.cache
 C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.ClienteConsola\obj\Debug\ServicioWeb.ClienteConsola.exe
 C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.ClienteConsola\obj\Debug\ServicioWeb.ClienteConsola.pdb
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.ClienteConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.ClienteConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServicioWeb.ClienteConsola\obj\Debug\ServicioWeb.ClienteConsola.csproj.CopyComplete
