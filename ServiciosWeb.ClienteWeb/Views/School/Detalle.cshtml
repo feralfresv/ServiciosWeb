@@ -1,0 +1,23 @@
+﻿@model ServiciosWeb.Dominio.Escuela
+@{
+    ViewBag.Title = "Detalle";
+}
+
+<h2>Detalle de Escuela</h2>
+<hr />
+
+    <div class="form-group">
+        <label>IdEscuela</label>
+        @Model.Id
+    </div>
+    <div class="form-group">
+        <label>Name</label>
+        @Model.Name
+    </div>
+    <div class="form-group">
+        <label>Year</label>
+        @Model.Year
+    </div>
+    <div class="form-group">
+        <a href="@Url.Action("Index", "School")">Regresar</a>
+    </div>

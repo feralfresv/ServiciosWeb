@@ -1,0 +1,12 @@
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\ServiciosWeb.Datos.dll.config
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\ServiciosWeb.Datos.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\ServiciosWeb.Datos.pdb
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\EntityFramework.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\EntityFramework.xml
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\obj\Release\ServiciosWeb.Datos.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\obj\Release\ServiciosWeb.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\obj\Release\ServiciosWeb.Datos.csproj.CopyComplete
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\obj\Release\ServiciosWeb.Datos.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Datos\obj\Release\ServiciosWeb.Datos.pdb

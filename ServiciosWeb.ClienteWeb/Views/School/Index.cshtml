@@ -3,13 +3,21 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+
+
+<h2>
+    <a href="@Url.Action("Nuevo","School")" class="btn btn-primary right">Nuevo</a>
+    Index</h2>
+<hr />
+
+
 <table class="table table-bordered">
     <thead>
         <tr class="table-success">
             <td>Id</td>
             <td>Name</td>
             <td>Year</td>
+            <td>Acciones</td>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +27,11 @@
                 <td>@escuela.Id</td>
                 <td>@escuela.Name</td>
                 <td>@escuela.Year</td>
+                <td>
+                    <a href="@Url.Action("Actualizar","School", new { id = escuela.Id })" class="btn btn-success right">Actualizar</a>
+                    <a href="@Url.Action("Eliminar","School", new { id = escuela.Id })" class="btn btn-danger right">Eliminar</a>
+                    <a href="@Url.Action("Detalle","School", new { id = escuela.Id })" class="btn btn-default right">Detalle</a>
+                </td>
             </tr>
         }
     </tbody>

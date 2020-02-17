@@ -1,0 +1,26 @@
+﻿@model ServiciosWeb.Dominio.Escuela
+@{
+    ViewBag.Title = "Nuevo";
+}
+
+<h2>Nueva Escuela</h2>
+<hr />
+
+<form method="post" action="@Url.Action("Nuevo","School")">
+    @*<div class="form-group">
+        <label>IdEscuela</label>
+        @Html.TextBoxFor(x => x.Id, new { @class = "form-group" })
+    </div>*@
+    <div class="form-group">
+        <label>Name</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-group" })
+    </div>
+    <div class="form-group">
+        <label>Year</label>
+        @Html.TextBoxFor(x => x.Year, new { @class = "form-group" })
+    </div>
+    <div class="form-group">
+        <input type="submit" class="btn btn-success" value="Enviar" />
+        <a href="@Url.Action("Index", "School")">Regresar</a>
+    </div>
+</form>

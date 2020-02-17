@@ -83,3 +83,6 @@ C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.Clien
 C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ClienteWeb\obj\Debug\ServiciosWeb.ClienteWeb.csproj.CopyComplete
 C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ClienteWeb\obj\Debug\ServiciosWeb.ClienteWeb.dll
 C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ClienteWeb\obj\Debug\ServiciosWeb.ClienteWeb.pdb
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ClienteWeb\bin\System.Net.Http.Extensions.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ClienteWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Curso\source\repos\YouTube - Tutoriales\ServiciosWeb\ServiciosWeb.ClienteWeb\bin\System.Net.Http.Primitives.dll
